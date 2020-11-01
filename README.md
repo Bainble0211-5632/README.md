@@ -16,7 +16,7 @@ I am a middle school student in South Korea.
 
 ### Top Langs
 
-[![Top Langs]https://github-readme-stats.vercel.app/api/top-langs/?username=Bainble0211-6109)](https://github.com/Bainble0211-6109)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bainble0211-6109)](https://github.com/Bainble0211-6109)
 
 ### Links
 + Discord : [Bainble0211#6109](https://discord.com/users/726350177601978438)
