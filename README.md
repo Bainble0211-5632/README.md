@@ -12,11 +12,11 @@ I am a middle school student in South Korea.
 
 ### Github Status
 
-[![Bainble0211's github status](https://github-readme-stats.vercel.app/api?username=Bainble0211-6109&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/Bainble0211-6109)
+[![Bainble0211's github status](https://github-readme-stats.vercel.app/api?username=Bainble0211-6109)](https://github.com/Bainble0211-6109)
 
 ### Top Langs
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bainble0211-6109&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=8)](https://github.com/Bainble0211-6109)
+[![Top Langs]https://github-readme-stats.vercel.app/api/top-langs/?username=Bainble0211-6109)](https://github.com/Bainble0211-6109)
 
 ### Links
 + Discord : [Bainble0211#6109](https://discord.com/users/726350177601978438)
